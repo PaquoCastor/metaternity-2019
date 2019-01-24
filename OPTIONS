@@ -20,7 +20,7 @@ comp_respawnfix               0
 comp_fallingdmg               1
 comp_soul                     0
 comp_overunder                0
-comp_theights                 1
-comp_planeshoot               1
+comp_theights                 0
+comp_planeshoot               0
 comp_special                  0
-comp_aircontrol               1
+comp_aircontrol               0
